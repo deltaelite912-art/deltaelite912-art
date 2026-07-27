@@ -123,36 +123,14 @@ mindmap
 
 ---
 
-## 🚀 Current Projects
+
 
 <table>
   <tr>
     <td width="50%" valign="top">
 
-### ♟️ ChessLab
-**A modern chess training platform**
 
-> _"Train. Analyze. Improve."_
 
-A comprehensive chess training ecosystem designed to help players of all levels improve their game through structured learning and intelligent analysis.
-
-**✨ Features:**
-- 📖 **Opening Explorer** — Browse and learn openings interactively
-- 🧩 **Puzzle System** — Adaptive puzzles based on skill level
-- 📈 **ELO Progression** — Track rating growth over time
-- 🤖 **Bot Training** — Play against AI opponents of varying difficulty
-- 🔍 **Game Analysis** — Deep move-by-move evaluation engine
-- 🗺️ **Learning Roadmap** — Structured path from beginner to advanced
-
-`React` `TypeScript` `Node.js` `Python` `SQLite`
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-In_Development-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Phase-Alpha-orange?style=flat-square" />
-</p>
-
-    </td>
-    <td width="50%" valign="top">
 
 ### 🤖 AI Experiments
 **Exploring the frontier of artificial intelligence**
@@ -225,116 +203,7 @@ Building responsive, performant web applications with a focus on clean architect
   <img src="https://img.shields.io/badge/Phase-Production-ready-brightgreen?style=flat-square" />
 </p>
 
-    </td>
-  </tr>
-</table>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-### 📈 Stats Overview
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" />
-
-<br/>
-
-### 🔥 Streak & Activity
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
-
-<br/>
-
-### 📅 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B" alt="Activity Graph" width="100%" />
-
-<br/>
-
-### 👁️ Visitor Count
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg" alt="Visitor Counter" />
-      <br/><sub>Profile Visitors</sub>
-    </td>
-    <td align="center">
-      <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=00D9FF&label=Total+Views" alt="Profile Views" />
-      <br/><sub>Total Profile Views</sub>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-## 🗓️ What I'm Currently Up To
-
-<!--START_SECTION:activity-->
-```text
-🔄 Always learning, always building.
-```
-<!--END_SECTION:activity-->
-
-```text
-2025 Goals:
-╭──────────────────────────────────────────────╮
-│ ✅  Continue full-stack development         │
-│ ✅  Dive deeper into AI/ML engineering      │
-│ ✅  Ship ChessLab alpha                      │
-│ ✅  Build first custom programming language │
-│ ✅  Release first Godot game prototype       │
-│ 🎯  Become a professional software engineer │
-╰──────────────────────────────────────────────╯
-```
-
----
-
-## 🤝 Connect & Collaborate
-
-<div align="center">
-
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="YOUR_PORTFOLIO_URL">
-        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="YOUR_LINKEDIN_URL">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="mailto:YOUR_EMAIL@example.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://twitter.com/YOUR_TWITTER">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 *"The best way to learn how something works is to build it yourself."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00D9FF&height=80&section=footer" width="100%" />
 
 <sub>Built with ❤️ and lots of ☕ by Delta</sub>
 
