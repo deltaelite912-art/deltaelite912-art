@@ -119,7 +119,7 @@ mindmap
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux (Coming Soon)" />
 </p>
 
-> _Replace `YOUR_GITHUB_USERNAME` everywhere with your actual GitHub username._
+
 
 ---
 
