@@ -1,236 +1,341 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a1a&height=200&section=header&text=Delta&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=A0A0A0&center=true&vCenter=true&width=650&lines=Artificial+Intelligence;Full+Stack+Web+Development;Game+Development;Chess+Software;Programming+Languages;Software+Architecture;Open+Source" alt="Typing SVG" />
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## About Me
-
-I'm a self-taught programmer passionate about building software from scratch.
-
-I enjoy understanding how things work internally instead of only using frameworks. That's what drives my interest across a wide range of areas:
-
-- Artificial Intelligence
-- Full Stack Web Development
-- Game Development
-- Chess Software
-- Programming Languages
-- Software Architecture
-- Open Source
-
-<br/>
-
----
-
-<br/>
-
-## Tech Stack
+# 👋 Hi there, I'm Delta
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=E34F26" />
-<img src="https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3&logoColor=1572B6" />
-<img src="https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/TypeScript-0d0d0d?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-<img src="https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-0d0d0d?style=for-the-badge&logo=node.js&logoColor=339933" />
-<img src="https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=3776AB" />
-<img src="https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=F05032" />
-<img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/Godot-0d0d0d?style=for-the-badge&logo=godotengine&logoColor=478CBF" />
-<img src="https://img.shields.io/badge/Blender-0d0d0d?style=for-the-badge&logo=blender&logoColor=F5792A" />
-<img src="https://img.shields.io/badge/SQLite-0d0d0d?style=for-the-badge&logo=sqlite&logoColor=003B57" />
-<img src="https://img.shields.io/badge/MySQL-0d0d0d?style=for-the-badge&logo=mysql&logoColor=4479A1" />
-<img src="https://img.shields.io/badge/VS%20Code-0d0d0d?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
+<!-- Visitor Badge -->
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue&label=Profile+Views" alt="Profile Views" />
+
+<!-- Typing SVG -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Self-taught+Programmer;Building+Software+From+Scratch;AI+%7C+Full+Stack+%7C+Game+Dev;Always+Learning+Deeply" alt="Typing SVG" />
 
 </div>
 
-<br/>
+---
 
-<details>
-<summary><b>More technologies as I learn them</b></summary>
-<br/>
+## 🧠 About Me
+
+```yaml
+name: Delta
+role: Self-taught Programmer
+philosophy: "Understand how things work internally, not just how to use them."
+focus: Building software from scratch
+```
+
+I'm a **self-taught programmer** passionate about building software from the ground up. I enjoy diving deep into how systems work internally rather than relying solely on frameworks and abstractions.
+
+### 🔍 Main Interests
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| 🤖 Artificial Intelligence | 🌐 Full Stack Web Development | 🎮 Game Development | ♟️ Chess Software |
+| 💻 Programming Languages | 🏛️ Software Architecture | 🌱 Open Source | 🔬 Deep Systems Understanding |
+
+---
+
+## 🎯 Current Goals
+
 <div align="center">
 
-<img src="https://img.shields.io/badge/-YOUR_TECH-1a1a1a?style=for-the-badge&labelColor=0d0d0d" />
-<img src="https://img.shields.io/badge/-YOUR_TECH-1a1a1a?style=for-the-badge&labelColor=0d0d0d" />
-<img src="https://img.shields.io/badge/-YOUR_TECH-1a1a1a?style=for-the-badge&labelColor=0d0d0d" />
+```mermaid
+mindmap
+  root((Delta's Goals))
+    Web
+      Large Web Applications
+      Backend Engineering
+    AI
+      AI Engineering
+      Custom AI Models
+      LLMs & Automation
+    Systems
+      Custom Programming Language
+      System Design Mastery
+    Games
+      Godot Game Development
+      Graphics Programming
+    Career
+      Professional Software Engineer
+```
 
 </div>
-</details>
 
-<br/>
-
----
-
-<br/>
-
-## Current Focus
-
-- Building large web applications
-- Learning backend engineering
-- Learning AI engineering
-- Creating my own programming language
-- Building my own AI models
-- Developing games with Godot
-- Improving system design skills
-- Becoming a professional software engineer
-
-<br/>
+- 🏗️ Building large-scale web applications
+- ⚙️ Learning backend engineering in depth
+- 🧠 Mastering AI engineering
+- 🔣 Creating my own programming language
+- 🤖 Building my own AI models from scratch
+- 🎮 Developing immersive games with Godot
+- 📐 Improving system design skills
+- 🚀 Becoming a professional software engineer
 
 ---
 
-<br/>
+## 🛠️ Technologies & Tools
 
-## Featured Projects
+### 💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
 
-<table width="100%">
-<tr>
-<td width="100%">
+### ⚛️ Frameworks & Libraries
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="Godot" />
+</p>
 
-### ♟ ChessLab
-A modern chess training platform featuring:
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
 
-- Opening explorer
-- Puzzle system
-- ELO progression
-- Bot training
-- Game analysis
-- Learning roadmap
+### 🎨 Design & 3D
+<p>
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
+</p>
 
-**[View Repository →](https://github.com/YOUR_USERNAME/YOUR_REPO)**
+### 🔧 Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+</p>
 
-</td>
-</tr>
-</table>
+### 🚧 Currently Learning / Future Stack
+<p>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust (Coming Soon)" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ (Coming Soon)" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker (Coming Soon)" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL (Coming Soon)" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind (Coming Soon)" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js (Coming Soon)" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow (Coming Soon)" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch (Coming Soon)" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis (Coming Soon)" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux (Coming Soon)" />
+</p>
 
-<br/>
+> _Replace `YOUR_GITHUB_USERNAME` everywhere with your actual GitHub username._
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+---
+
+## 🚀 Current Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### ♟️ ChessLab
+**A modern chess training platform**
+
+> _"Train. Analyze. Improve."_
+
+A comprehensive chess training ecosystem designed to help players of all levels improve their game through structured learning and intelligent analysis.
+
+**✨ Features:**
+- 📖 **Opening Explorer** — Browse and learn openings interactively
+- 🧩 **Puzzle System** — Adaptive puzzles based on skill level
+- 📈 **ELO Progression** — Track rating growth over time
+- 🤖 **Bot Training** — Play against AI opponents of varying difficulty
+- 🔍 **Game Analysis** — Deep move-by-move evaluation engine
+- 🗺️ **Learning Roadmap** — Structured path from beginner to advanced
+
+`React` `TypeScript` `Node.js` `Python` `SQLite`
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-In_Development-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Phase-Alpha-orange?style=flat-square" />
+</p>
+
+    </td>
+    <td width="50%" valign="top">
 
 ### 🤖 AI Experiments
-Learning machine learning, LLMs, automation, and AI tools.
+**Exploring the frontier of artificial intelligence**
 
-**[View Repository →](https://github.com/YOUR_USERNAME/YOUR_REPO)**
+> _"From neural networks to large language models."_
 
-</td>
-<td width="50%" valign="top">
+A collection of experiments, notebooks, and projects focused on understanding and building AI systems from the ground up.
+
+**🔬 Focus Areas:**
+- 🧠 **Machine Learning** — Model training, evaluation, and optimization
+- 💬 **LLMs** — Working with large language models locally and via API
+- ⚡ **Automation** — Intelligent workflow automation pipelines
+- 🛠️ **AI Tools** — Building practical AI-powered utilities
+- 📊 **Data Processing** — Pipelines for training and inference
+
+`Python` `PyTorch` `TensorFlow` `HuggingFace`
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active_Research-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Phase-Experimental-yellow?style=flat-square" />
+</p>
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
 ### 🎮 Game Development
-Building immersive games with Godot while exploring graphics programming, gameplay systems, and game architecture.
+**Building immersive interactive experiences**
 
-**[View Repository →](https://github.com/YOUR_USERNAME/YOUR_REPO)**
+> _"Where art meets engineering."_
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+Exploring game development with Godot — from low-level graphics programming to high-level gameplay systems and architecture patterns.
+
+**🎯 Areas of Exploration:**
+- 🎨 **Graphics Programming** — Shaders, rendering pipelines, visual effects
+- 🕹️ **Gameplay Systems** — Player controllers, physics, interactions
+- 🏗️ **Game Architecture** — Entity-component systems, state management
+- 🌍 **World Building** — Procedural generation, level design
+- 🔊 **Audio Systems** — Dynamic sound and music integration
+
+`Godot` `GDScript` `Blender` `C#`
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/Phase-Prototyping-blueviolet?style=flat-square" />
+</p>
+
+    </td>
+    <td width="50%" valign="top">
 
 ### 🌐 Web Development
-Creating modern responsive websites with React and clean UI/UX.
+**Crafting modern web experiences**
 
-**[View Repository →](https://github.com/YOUR_USERNAME/YOUR_REPO)**
+> _"Clean code. Clean design. Clean UX."_
 
-</td>
-<td width="50%" valign="top">
+Building responsive, performant web applications with a focus on clean architecture, accessibility, and delightful user experiences.
 
-&nbsp;
+**💡 Focus Areas:**
+- ⚛️ **React Ecosystem** — Components, hooks, state management
+- 🎨 **UI/UX Design** — Modern, responsive, accessible interfaces
+- 🔧 **Backend APIs** — RESTful services and data modeling
+- 📱 **Responsive Design** — Mobile-first, cross-platform
+- ⚡ **Performance** — Optimization and best practices
 
-</td>
-</tr>
+`React` `TypeScript` `Node.js` `CSS3`
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Ongoing-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Phase-Production-ready-brightgreen?style=flat-square" />
+</p>
+
+    </td>
+  </tr>
 </table>
 
-<br/>
-
 ---
 
-<br/>
-
-## GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=898989&text_color=c9c9c9&ring_color=2b2b2b" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=c9c9c9&langs_count=8" width="35%"/>
+### 📈 Stats Overview
 
-<br/><br/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0d0d0d&stroke=2b2b2b&ring=898989&fire=c9c9c9&currStreakLabel=ffffff" width="70%"/>
+<br/>
 
-<br/><br/>
+### 🔥 Streak & Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=0d0d0d&color=898989&line=c9c9c9&point=ffffff&hide_border=true&area=true" width="90%"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
+
+<br/>
+
+### 📅 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B" alt="Activity Graph" width="100%" />
+
+<br/>
+
+### 👁️ Visitor Count
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg" alt="Visitor Counter" />
+      <br/><sub>Profile Visitors</sub>
+    </td>
+    <td align="center">
+      <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=00D9FF&label=Total+Views" alt="Profile Views" />
+      <br/><sub>Total Profile Views</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
-
-<br/>
-
-<details>
-<summary><b>Contribution Calendar</b></summary>
-<br/>
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&bg_color=0d0d0d&color=898989&line=c9c9c9&point=ffffff&hide_border=true" width="90%"/>
-</div>
-</details>
-
-<br/>
 
 ---
 
-<br/>
+## 🗓️ What I'm Currently Up To
 
-## Goals for 2026
+<!--START_SECTION:activity-->
+```text
+🔄 Always learning, always building.
+```
+<!--END_SECTION:activity-->
 
-- [ ] Building large web applications
-- [ ] Learning backend engineering
-- [ ] Learning AI engineering
-- [ ] Creating my own programming language
-- [ ] Building my own AI models
-- [ ] Developing games with Godot
-- [ ] Improving system design skills
-- [ ] Becoming a professional software engineer
-
-<br/>
+```text
+2025 Goals:
+╭──────────────────────────────────────────────╮
+│ ✅  Continue full-stack development         │
+│ ✅  Dive deeper into AI/ML engineering      │
+│ ✅  Ship ChessLab alpha                      │
+│ ✅  Build first custom programming language │
+│ ✅  Release first Godot game prototype       │
+│ 🎯  Become a professional software engineer │
+╰──────────────────────────────────────────────╯
+```
 
 ---
 
-<br/>
-
-## Connect
+## 🤝 Connect & Collaborate
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-</a>
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-</a>
-<a href="https://YOUR_PORTFOLIO">
-  <img src="https://img.shields.io/badge/Portfolio-0d0d0d?style=for-the-badge&logo=vercel&logoColor=ffffff" />
-</a>
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=ffffff" />
-</a>
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=1a1a1a&style=for-the-badge" />
+<table>
+  <tr>
+    <td align="center">
+      <a href="YOUR_PORTFOLIO_URL">
+        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="YOUR_LINKEDIN_URL">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:YOUR_EMAIL@example.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://twitter.com/YOUR_TWITTER">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0d0d0d&height=100&section=footer" width="100%"/>
+<div align="center">
+
+### 💭 *"The best way to learn how something works is to build it yourself."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00D9FF&height=80&section=footer" width="100%" />
+
+<sub>Built with ❤️ and lots of ☕ by Delta</sub>
+
+</div>
