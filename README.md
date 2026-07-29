@@ -16,8 +16,6 @@
 
 ```yaml
 name: Delta
-role: Self-taught Programmer
-philosophy: "Understand how things work internally, not just how to use them."
 focus: Building software from scratch
 ```
 
